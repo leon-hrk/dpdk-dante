@@ -1,0 +1,17 @@
+BasedOnStyle: LLVM
+Language: Cpp
+
+IndentWidth: 4
+TabWidth: 4
+
+InsertBraces: true
+
+BinPackParameters: false
+BinPackArguments: false
+AlignAfterOpenBracket: BlockIndent
+
+AllowShortFunctionsOnASingleLine: Empty
+
+InsertNewlineAtEOF: true
+
+PointerAlignment: Right
